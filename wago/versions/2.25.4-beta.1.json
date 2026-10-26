@@ -1,0 +1,14 @@
+{
+  "flavor": "wago",
+  "channel": "beta",
+  "shellApi": 1,
+  "version": "2.25.4-beta.1",
+  "sha256": "96b98c7a05b5c66c87d6844d55b980a36bf4e990e7fe27f8b0438b2063768e68",
+  "contentSha256": "1cb0c644c6a9f8d90da962cc482f35fbe677e022d49ebddbaff838334d19049b",
+  "urls": [
+    "https://github.com/WowUp/wowup-bundles/releases/download/wago-2.25.4-beta.1/wago-2.25.4-beta.1-96b98c7a05b5c66c87d6844d55b980a36bf4e990e7fe27f8b0438b2063768e68.zip"
+  ],
+  "rolloutPercent": 100,
+  "revoked": [],
+  "issuedAt": "2026-10-26T22:33:54.738Z"
+}
