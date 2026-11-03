@@ -1,0 +1,14 @@
+{
+  "flavor": "ow",
+  "channel": "beta",
+  "shellApi": 1,
+  "version": "2.25.4-beta.4",
+  "sha256": "3b09e92277d3dd263acceaf837b091920d2e79e6df12431f69858fe8da267ad7",
+  "contentSha256": "d855f801c301ed1daaf65fb3c16943fbb54a2d80794335959be667acf0951633",
+  "urls": [
+    "https://github.com/WowUp/wowup-bundles/releases/download/ow-2.25.4-beta.4/ow-2.25.4-beta.4-3b09e92277d3dd263acceaf837b091920d2e79e6df12431f69858fe8da267ad7.zip"
+  ],
+  "rolloutPercent": 100,
+  "revoked": [],
+  "issuedAt": "2026-11-03T16:34:24.491Z"
+}
