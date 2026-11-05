@@ -2,15 +2,15 @@
   "flavor": "ow",
   "channel": "beta",
   "shellApi": 1,
-  "version": "2.25.5-beta.2",
-  "sha256": "b2d4d47db22f86ab25f4639d39f83a3f8a4d28ece4f6780ec09b964dfcab6e18",
-  "contentSha256": "f983df0c05ebb7e55821e572cb0248084edb1deb6e0eae8e464dc8cdb116f8c7",
+  "version": "2.25.5-beta.3",
+  "sha256": "fb76607ce8644e9585f5f1200ad8611eaf8c13716e4b273ca740626a007d4b7e",
+  "contentSha256": "998c39fc908e6eb6a9b25b92d93f9582b884df4b5fc7b1d5e01d584136bc2451",
   "urls": [
-    "https://github.com/WowUp/wowup-bundles/releases/download/ow-2.25.5-beta.2/ow-2.25.5-beta.2-b2d4d47db22f86ab25f4639d39f83a3f8a4d28ece4f6780ec09b964dfcab6e18.zip"
+    "https://github.com/WowUp/wowup-bundles/releases/download/ow-2.25.5-beta.3/ow-2.25.5-beta.3-fb76607ce8644e9585f5f1200ad8611eaf8c13716e4b273ca740626a007d4b7e.zip"
   ],
   "rolloutPercent": 100,
   "revoked": [],
-  "issuedAt": "2026-11-05T16:45:42.472Z",
+  "issuedAt": "2026-11-05T17:03:21.505Z",
   "keyId": "2026-a",
-  "signature": "i6dEQUi9QxHmXmswtu4b7wxIZ2xwd13FmVHg/tGuDbbjiZC/HZ45rO38lwEu1AUB26qnZdl0TXwI77mPC7asAQ=="
+  "signature": "8Kgc4USYkmQDyXJIGLHaO0K3g6pLJq7IHIdiFrLrV7lrgfC0sziGiaLPeu9DPs8JyAI65XEKwBszVAAM+dtyCA=="
 }
