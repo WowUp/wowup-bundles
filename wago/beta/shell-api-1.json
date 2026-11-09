@@ -2,15 +2,15 @@
   "flavor": "wago",
   "channel": "beta",
   "shellApi": 1,
-  "version": "2.25.5-beta.3",
-  "sha256": "0d12db088a10b9b2f317e9349f42ce1c08e5968ed1b3aa4977e7f69629cd631d",
-  "contentSha256": "ea0361b337e55e7ea22d14d259fb44a0bb3ac7a6801a7a00f960f5cfb76c66ce",
+  "version": "2.25.5-beta.4",
+  "sha256": "de676c5653d3733fc06008f69edf944b48ff80d2ae3f77b0f6c8b7fe3c60df26",
+  "contentSha256": "e3fa737ecfb3d4c039da871546875dbd58bbdcb18276b27ce9bcdb0cf21d5854",
   "urls": [
-    "https://github.com/WowUp/wowup-bundles/releases/download/wago-2.25.5-beta.3/wago-2.25.5-beta.3-0d12db088a10b9b2f317e9349f42ce1c08e5968ed1b3aa4977e7f69629cd631d.zip"
+    "https://github.com/WowUp/wowup-bundles/releases/download/wago-2.25.5-beta.4/wago-2.25.5-beta.4-de676c5653d3733fc06008f69edf944b48ff80d2ae3f77b0f6c8b7fe3c60df26.zip"
   ],
   "rolloutPercent": 100,
   "revoked": [],
-  "issuedAt": "2026-11-05T17:00:28.866Z",
+  "issuedAt": "2026-11-09T15:59:23.133Z",
   "keyId": "2026-a",
-  "signature": "p2MyDl1mKsrDyYlMDsXIZqn2MDHAP3sW1z+wHmcf1oHoSrt/Lq0fDW+C/+j5vbGj8pQQV4RhOwAqkiNPcJ68Dg=="
+  "signature": "YaF8le0eYsvSjLghxVY1Kptfy+Rt00sUPTaNwU/PnTQdWQ5F3F25j0zU0EEHmanve0WsmgBaP1eoU7fEow8PBA=="
 }
